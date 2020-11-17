@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.agoda.adp.messaging:adp-avro:2.5.0.25-avro-1.8.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo-hkg.agodadev.io/agoda-maven/com/agoda/adp/messaging/adp-avro/2.5.0.25-avro-1.8.2/adp-avro-2.5.0.25-avro-1.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo-hkg.agodadev.io/agoda-maven/com/agoda/adp/messaging/adp-avro/2.5.0.25-avro-1.8.2/adp-avro-2.5.0.25-avro-1.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

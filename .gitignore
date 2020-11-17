@@ -1,0 +1,6 @@
+# Project exclude paths
+/b2bimport/target/
+/b2bimport/target/scala-2.12/classes/
+/project/project/target/
+/project/target/
+/target/

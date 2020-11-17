@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.agoda.adp.messaging:adp-messaging-client:2.5.0.22:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo-hkg.agodadev.io/agoda-maven/com/agoda/adp/messaging/adp-messaging-client/2.5.0.22/adp-messaging-client-2.5.0.22.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo-hkg.agodadev.io/agoda-maven/com/agoda/adp/messaging/adp-messaging-client/2.5.0.22/adp-messaging-client-2.5.0.22-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo-hkg.agodadev.io/agoda-maven/com/agoda/adp/messaging/adp-messaging-client/2.5.0.22/adp-messaging-client-2.5.0.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

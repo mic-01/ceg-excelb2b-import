@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.agoda.ml:commonutils_2.12:1.0.40:tests:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo-hkg.agodadev.io/agoda-maven/com/agoda/ml/commonutils_2.12/1.0.40/commonutils_2.12-1.0.40-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

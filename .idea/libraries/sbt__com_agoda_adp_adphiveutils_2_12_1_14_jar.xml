@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.agoda.adp:adphiveutils_2.12:1.14:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo-hkg.agodadev.io/agoda-maven/com/agoda/adp/adphiveutils_2.12/1.14/adphiveutils_2.12-1.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo-hkg.agodadev.io/agoda-maven/com/agoda/adp/adphiveutils_2.12/1.14/adphiveutils_2.12-1.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

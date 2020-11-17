@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.agoda.ml:hadooputils_2.12:2.4.9:tests:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo-hkg.agodadev.io/agoda-maven/com/agoda/ml/hadooputils_2.12/2.4.9/hadooputils_2.12-2.4.9-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
